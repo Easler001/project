@@ -1,0 +1,29 @@
+header {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  margin: 0 auto;
+}
+
+header ul {
+  text-decoration: none;
+}
+
+header li {
+  list-style: none;
+}
+
+#category ul {
+  display: flex;
+  list-style: none;
+  justify-content: start;
+  margin: 20px 5px;
+  padding: 0 10px;
+  text-decoration: none;
+}
+
+#event ul {
+  list-style: none;
+}
+
+
